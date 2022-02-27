@@ -1,0 +1,43 @@
+{
+    "general": {
+        "badges": {
+            "certified": "Certified account",
+            "moderator": "Moderator",
+            "developer": "Developer",
+            "bug_hunter": "Bug hunter",
+            "advertiser": "Advertiser"
+        }
+    },
+    "main": {
+        "search": {
+            "placeholder": "Search for a post or an user"
+        },
+        "buttons": {
+            "login": "Login",
+        }
+    },
+    "login": {
+        "login": "Login",
+        "signin": "Sign in",
+        "fields": {
+            "email": "Email adress",
+            "username": "Username",
+            "password": "Password",
+            "verify_password": "Verify password"
+        }
+    },
+    "search": {
+        "results": '{{count}} results for "{{query}}"',
+        "posts": "Posts",
+        "users": "Users",
+        "search_bio": "Search in bio"
+    },
+    "profile": {
+        "edit": "Edit my profile",
+        "save": "Save",
+        "cancel": "Cancel",
+        "style": "Profile style",
+        "style_default": "Default",
+        "style_banner": "Banner"
+    }
+}
