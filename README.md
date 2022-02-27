@@ -1,1 +1,0 @@
-# SharMe Official Translations
