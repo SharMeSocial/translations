@@ -1,0 +1,43 @@
+{
+    "general": {
+        "badges": {
+            "certified": "",
+            "moderator": "",
+            "developer": "",
+            "bug_hunter": "",
+            "advertiser": ""
+        }
+    },
+    "main": {
+        "search": {
+            "placeholder": ""
+        },
+        "buttons": {
+            "login": ""
+        }
+    },
+    "login": {
+        "login": "",
+        "signin": "",
+        "fields": {
+            "email": "",
+            "username": "",
+            "password": "",
+            "verify_password": ""
+        }
+    },
+    "search": {
+        "results": "",
+        "posts": "",
+        "users": "",
+        "search_bio": ""
+    },
+    "profile": {
+        "edit": "",
+        "save": "",
+        "cancel": "",
+        "style": "",
+        "style_default": "",
+        "style_banner": ""
+    }
+}
