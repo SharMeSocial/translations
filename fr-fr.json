@@ -13,7 +13,7 @@
             "placeholder": "Rechercher un post ou un utilisateur"
         },
         "buttons": {
-            "login": ""
+            "login": "Connexion"
         }
     },
     "login": {
