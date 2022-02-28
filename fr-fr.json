@@ -28,7 +28,7 @@
     },
     "search": {
         "results": "{{count}} r\u00e9sultats pour \"{{query}}\"",
-        "posts": "",
+        "posts": "Posts",
         "users": "",
         "search_bio": ""
     },
