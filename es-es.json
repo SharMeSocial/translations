@@ -21,7 +21,7 @@
         "signin": "Registrar una cuenta",
         "fields": {
             "email": "Direcci\u00f3n de correo electr\u00f3nico",
-            "username": "",
+            "username": "Nombre de usuario",
             "password": "",
             "verify_password": ""
         }
