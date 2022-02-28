@@ -21,7 +21,7 @@
         "signin": "S'inscrire",
         "fields": {
             "email": "Adresse e-mail",
-            "username": "",
+            "username": "Nom d'utilisateur",
             "password": "",
             "verify_password": ""
         }
