@@ -17,7 +17,7 @@
         }
     },
     "login": {
-        "login": "",
+        "login": "Iniciar sesi\u00f3n",
         "signin": "",
         "fields": {
             "email": "",
