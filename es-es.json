@@ -20,7 +20,7 @@
         "login": "Connectar una cuenta",
         "signin": "Registrar una cuenta",
         "fields": {
-            "email": "",
+            "email": "Direcci\u00f3n de correo electr\u00f3nico",
             "username": "",
             "password": "",
             "verify_password": ""
