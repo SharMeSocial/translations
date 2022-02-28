@@ -17,7 +17,7 @@
         }
     },
     "login": {
-        "login": "",
+        "login": "Se connecter",
         "signin": "",
         "fields": {
             "email": "",
