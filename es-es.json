@@ -23,7 +23,7 @@
             "email": "Direcci\u00f3n de correo electr\u00f3nico",
             "username": "Nombre de usuario",
             "password": "Contrase\u00f1a",
-            "verify_password": ""
+            "verify_password": "Verificar contrase\u00f1a"
         }
     },
     "search": {
