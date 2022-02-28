@@ -1,11 +1,11 @@
 {
     "general": {
         "badges": {
-            "certified": "Compte certifié",
-            "moderator": "Modérateur",
-            "developer": "Développeur",
+            "certified": "Compte certifi\u00e9",
+            "moderator": "Mod\u00e9rateur",
+            "developer": "D\u00e9veloppeur",
             "bug_hunter": "Chasseur de bugs",
-            "advertiser": ""
+            "advertiser": "Annonceur"
         }
     },
     "main": {
