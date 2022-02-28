@@ -18,7 +18,7 @@
     },
     "login": {
         "login": "Connectar una cuenta",
-        "signin": "Inicio de sesi\u00f3n ",
+        "signin": "Registrar una cuenta",
         "fields": {
             "email": "",
             "username": "",
