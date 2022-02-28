@@ -4,7 +4,11 @@
         "locked": true
     },
     "fr-fr": {
-        "name": "Français",
+        "name": "Fran\u00e7ais",
+        "locked": false
+    },
+    "es-es": {
+        "name": "Espa\u00f1ol",
         "locked": false
     }
 }
