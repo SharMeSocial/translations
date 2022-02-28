@@ -18,7 +18,7 @@
     },
     "login": {
         "login": "Se connecter",
-        "signin": "",
+        "signin": "S'inscrire",
         "fields": {
             "email": "",
             "username": "",
