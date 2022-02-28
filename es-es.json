@@ -28,7 +28,7 @@
     },
     "search": {
         "results": "{{count}} resultado para \\\"{{consulta}}\\\" ",
-        "posts": "",
+        "posts": "Mensajes",
         "users": "",
         "search_bio": ""
     },
