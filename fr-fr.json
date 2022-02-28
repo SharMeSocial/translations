@@ -23,7 +23,7 @@
             "email": "Adresse e-mail",
             "username": "Nom d'utilisateur",
             "password": "Mot de passe",
-            "verify_password": ""
+            "verify_password": "V\u00e9rifier le mot de passe"
         }
     },
     "search": {
