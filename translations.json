@@ -1,3 +1,6 @@
 {
-    "en-gb": false
+    "en-gb": {
+        "name": "English",
+        "locked": false
+    }
 }
