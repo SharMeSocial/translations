@@ -20,7 +20,7 @@
         "login": "Se connecter",
         "signin": "S'inscrire",
         "fields": {
-            "email": "",
+            "email": "Adresse e-mail",
             "username": "",
             "password": "",
             "verify_password": ""
