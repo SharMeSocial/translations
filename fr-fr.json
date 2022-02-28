@@ -29,7 +29,7 @@
     "search": {
         "results": "{{count}} r\u00e9sultats pour \"{{query}}\"",
         "posts": "Posts",
-        "users": "",
+        "users": "Utilisateurs",
         "search_bio": ""
     },
     "profile": {
