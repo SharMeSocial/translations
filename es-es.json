@@ -30,7 +30,7 @@
         "results": "{{count}} resultado para \\\"{{consulta}}\\\" ",
         "posts": "Mensajes",
         "users": "Usuarios",
-        "search_bio": ""
+        "search_bio": "Buscar en la biograf\u00eda"
     },
     "profile": {
         "edit": "",
