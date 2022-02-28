@@ -10,7 +10,7 @@
     },
     "main": {
         "search": {
-            "placeholder": ""
+            "placeholder": "Buscar una publicaci\u00f3n o un usuario"
         },
         "buttons": {
             "login": ""
