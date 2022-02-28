@@ -2,5 +2,9 @@
     "en-gb": {
         "name": "English",
         "locked": true
+    },
+    "fr-fr": {
+        "name": "Français",
+        "locked": false
     }
 }
