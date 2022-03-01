@@ -42,6 +42,7 @@
         "style_banner": "Estandarte",
         "unknown": "",
         "unknown_description": "",
-        "follow": ""
+        "follow": "",
+        "unfollow": ""
     }
 }
