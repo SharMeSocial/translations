@@ -13,7 +13,8 @@
             "placeholder": "Search for a post or an user"
         },
         "buttons": {
-            "login": "Login"
+            "login": "Login",
+            "logout": "Log out"
         }
     },
     "login": {
