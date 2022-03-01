@@ -43,6 +43,7 @@
         "unknown": "",
         "unknown_description": "",
         "follow": "",
-        "unfollow": ""
+        "unfollow": "",
+        "banned": ""
     }
 }
