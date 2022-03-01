@@ -38,6 +38,8 @@
         "cancel": "Cancelar",
         "style": "Estilo de perfil",
         "style_default": "Predeterminado",
-        "style_banner": "Estandarte"
+        "style_banner": "Estandarte",
+        "unknown": "",
+        "unknown_description": ""
     }
 }
