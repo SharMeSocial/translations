@@ -44,6 +44,7 @@
         "unknown_description": "",
         "follow": "",
         "unfollow": "",
-        "banned": ""
+        "banned": "",
+        "banned_descr": ""
     }
 }
