@@ -41,6 +41,7 @@
         "style_default": "Predeterminado",
         "style_banner": "Estandarte",
         "unknown": "",
-        "unknown_description": ""
+        "unknown_description": "",
+        "follow": ""
     }
 }
