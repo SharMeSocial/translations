@@ -13,7 +13,8 @@
             "placeholder": ""
         },
         "buttons": {
-            "login": ""
+            "login": "",
+            "logout": ""
         }
     },
     "login": {
