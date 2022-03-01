@@ -42,6 +42,7 @@
         "style_banner": "Banner",
         "unknown": "Unknown account",
         "unknown_description": "This account does not exists, or is not verified",
-        "follow": "Follow"
+        "follow": "Follow",
+        "unfollow": "Unfollow"
     }
 }
