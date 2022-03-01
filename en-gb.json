@@ -38,6 +38,8 @@
         "cancel": "Cancel",
         "style": "Profile style",
         "style_default": "Default",
-        "style_banner": "Banner"
+        "style_banner": "Banner",
+        "unknown": "Unknown account",
+        "unknown_description": "This account does not exists, or is not verified"
     }
 }
