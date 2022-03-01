@@ -43,6 +43,7 @@
         "unknown": "Unknown account",
         "unknown_description": "This account does not exists, or is not verified",
         "follow": "Follow",
-        "unfollow": "Unfollow"
+        "unfollow": "Unfollow",
+        "banned": "Account suspended"
     }
 }
