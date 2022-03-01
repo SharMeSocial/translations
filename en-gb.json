@@ -44,6 +44,7 @@
         "unknown_description": "This account does not exists, or is not verified",
         "follow": "Follow",
         "unfollow": "Unfollow",
-        "banned": "Account suspended"
+        "banned": "Account suspended",
+        "banned_descr": "This account has been suspended for violating SharMe rules."
     }
 }
