@@ -39,7 +39,7 @@
         "style": "Style de profil",
         "style_default": "Par d\u00e9faut",
         "style_banner": "Banni\u00e8re",
-        "unknown": "",
+        "unknown": "Compte inconnu",
         "unknown_description": "Ce compe n'existe pas, ou n'est pas v\u00e9rifi\u00e9"
     }
 }
