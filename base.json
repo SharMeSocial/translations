@@ -38,6 +38,8 @@
         "cancel": "",
         "style": "",
         "style_default": "",
-        "style_banner": ""
+        "style_banner": "",
+        "unknown": "",
+        "unknown_description": ""
     }
 }
