@@ -19,7 +19,7 @@
     },
     "login": {
         "login": "Connexion",
-        "signin": "",
+        "signin": "Se connecter",
         "fields": {
             "email": "",
             "username": "",
