@@ -28,7 +28,7 @@
         }
     },
     "search": {
-        "results": "{{count}} r\u00e9sultat pour \u00ab\u00a0{{requ\u00eate}}\u00a0\u00bb ",
+        "results": "{{count}} r\u00e9sultat pour &quot;{{query}}&quot;",
         "posts": "Posts",
         "users": "Utilisateurs",
         "search_bio": "Recherche en bio"
