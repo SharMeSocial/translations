@@ -44,7 +44,7 @@
         "unknown_description": "",
         "follow": "seguir ",
         "unfollow": "dejar de seguir",
-        "banned": "",
+        "banned": "cuenta suspendida",
         "banned_descr": "",
         "following": ""
     }
