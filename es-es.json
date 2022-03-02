@@ -14,7 +14,7 @@
         },
         "buttons": {
             "login": "Conectar una cuenta ",
-            "logout": ""
+            "logout": "Cerrar sesi\u00f3n"
         }
     },
     "login": {
