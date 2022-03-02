@@ -23,7 +23,7 @@
         "fields": {
             "email": "Adresse e-mail",
             "username": "Nom d\u2019utilisateur",
-            "password": "",
+            "password": "Mot de passe",
             "verify_password": ""
         }
     },
