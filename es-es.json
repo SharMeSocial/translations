@@ -45,6 +45,7 @@
         "follow": "",
         "unfollow": "",
         "banned": "",
-        "banned_descr": ""
+        "banned_descr": "",
+        "following": ""
     }
 }
