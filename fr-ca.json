@@ -29,7 +29,7 @@
     },
     "search": {
         "results": "{{count}} r\u00e9sultat pour \u00ab\u00a0{{requ\u00eate}}\u00a0\u00bb ",
-        "posts": "",
+        "posts": "Posts",
         "users": "",
         "search_bio": ""
     },
