@@ -13,7 +13,7 @@
             "placeholder": "Rechercher un message ou un utilisateur"
         },
         "buttons": {
-            "login": "",
+            "login": "Connexion",
             "logout": ""
         }
     },
