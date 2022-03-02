@@ -31,7 +31,7 @@
         "results": "{{count}} r\u00e9sultat pour \u00ab\u00a0{{requ\u00eate}}\u00a0\u00bb ",
         "posts": "Posts",
         "users": "Utilisateurs",
-        "search_bio": ""
+        "search_bio": "Recherche en bio"
     },
     "profile": {
         "edit": "",
