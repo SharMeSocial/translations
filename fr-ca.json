@@ -22,7 +22,7 @@
         "signin": "Se connecter",
         "fields": {
             "email": "Adresse e-mail",
-            "username": "",
+            "username": "Nom d\u2019utilisateur",
             "password": "",
             "verify_password": ""
         }
