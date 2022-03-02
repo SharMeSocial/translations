@@ -24,7 +24,7 @@
             "email": "Adresse e-mail",
             "username": "Nom d\u2019utilisateur",
             "password": "Mot de passe",
-            "verify_password": "v\u00e9rifier le mot de passe "
+            "verify_password": "V\u00e9rifier le mot de passe "
         }
     },
     "search": {
