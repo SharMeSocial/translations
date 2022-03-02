@@ -45,6 +45,7 @@
         "follow": "Follow",
         "unfollow": "Unfollow",
         "banned": "Account suspended",
-        "banned_descr": "This account has been suspended for violating SharMe rules."
+        "banned_descr": "This account has been suspended for violating SharMe rules.",
+        "following": "Following you"
     }
 }
