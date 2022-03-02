@@ -14,7 +14,7 @@
         },
         "buttons": {
             "login": "Connexion",
-            "logout": ""
+            "logout": "D\u00e9connectez-vous"
         }
     },
     "login": {
