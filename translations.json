@@ -10,5 +10,9 @@
     "es-es": {
         "name": "Espa\u00f1ol",
         "locked": false
+    },
+    "fr-ca": {
+        "name": "Canadien",
+        "locked": false
     }
 }
