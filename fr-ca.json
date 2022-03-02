@@ -21,7 +21,7 @@
         "login": "Connexion",
         "signin": "Se connecter",
         "fields": {
-            "email": "",
+            "email": "Adresse e-mail",
             "username": "",
             "password": "",
             "verify_password": ""
