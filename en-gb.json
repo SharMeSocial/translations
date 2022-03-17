@@ -28,7 +28,12 @@
         }
     },
     "search": {
-        "results": "{{count}} results for &#34;{{query}}&#34;",
+        "results": {
+            "result": "{{count}} result for &#34;{{query}}&#34;",
+            "results": "{{count}} results for &#34;{{query}}&#34;",
+            "M_results": "About {{count}} M results for &#34;{{query}}&#34;",
+            "Md_results": "About {{count}} B results for &#34;{{query}}&#34;"
+        },
         "posts": "Posts",
         "users": "Users",
         "search_bio": "Search in bio"
