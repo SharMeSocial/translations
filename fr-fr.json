@@ -28,7 +28,12 @@
         }
     },
     "search": {
-        "results": "{{count}} r\u00e9sultats pour &quot;{{query}}&quot;",
+        "results": {
+            "result": "{{count}} r\u00e9sultat pour &quot;{{query}}&quot;",
+            "results": "{{count}} r\u00e9sultats pour &quot;{{query}}&quot;",
+            "M_results": "Environ {{count}} M de r\u00e9sultats pour &quot;{{query}}&quot;",
+            "Md_results": "Environ {{count}} Md de r\u00e9sultats pour &quot;{{query}}&quot;"
+        },
         "posts": "Posts",
         "users": "Utilisateurs",
         "search_bio": "Rechercher dans la bio"
