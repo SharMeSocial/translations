@@ -13,7 +13,7 @@
             "placeholder": "Buscar una publicaci\u00f3n o un usuario"
         },
         "buttons": {
-            "login": "Conectar una cuenta ",
+            "login": "Conectarse",
             "logout": "Cerrar sesi\u00f3n"
         }
     },
