@@ -28,7 +28,12 @@
         }
     },
     "search": {
-        "results": "",
+        "results": {
+            "result": "",
+            "results": "",
+            "M_results": "",
+            "Md_results": ""
+        },
         "posts": "",
         "users": "",
         "search_bio": ""
