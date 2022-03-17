@@ -28,7 +28,12 @@
         }
     },
     "search": {
-        "results": "{{count}} resultado para &quot;{{query}}&quot;",
+        "results": {
+            "result": "{{count}} resultado para &quot;{{query}}&quot;",
+            "results": "{{count}} resultados para &quot;{{query}}&quot;",
+            "M_results": "Alrededor de {{count}} M de resultados para &quot;{{query}}&quot;",
+            "Md_results": "Alrededor de {{count}} mil millones de resultados para &quot;{{query}}&quot;"
+        },
         "posts": "Mensajes",
         "users": "Usuarios",
         "search_bio": "Buscar en la biograf\u00eda"
