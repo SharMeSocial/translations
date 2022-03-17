@@ -14,7 +14,7 @@
         },
         "buttons": {
             "login": "Conectarse",
-            "logout": "Cerrar sesi\u00f3n"
+            "logout": "Desconectarse"
         }
     },
     "login": {
