@@ -18,7 +18,7 @@
         }
     },
     "login": {
-        "login": "Connectar una cuenta",
+        "login": "Conectarse",
         "signin": "Registrar una cuenta",
         "fields": {
             "email": "Direcci\u00f3n de correo electr\u00f3nico",
