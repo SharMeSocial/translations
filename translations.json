@@ -14,5 +14,9 @@
     "fr-ca": {
         "name": "Canadien",
         "locked": false
+    },
+    "it-it": {
+        "name": "Italian",
+        "locked": false
     }
 }
