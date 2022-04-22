@@ -13,44 +13,44 @@
             "placeholder": ""
         },
         "buttons": {
-            "login": "",
-            "logout": ""
+            "login": "Login",
+            "logout": "Disconnettersi"
         }
     },
     "login": {
-        "login": "",
-        "signin": "",
+        "login": "Login",
+        "signin": "Registrazione",
         "fields": {
-            "email": "",
-            "username": "",
-            "password": "",
-            "verify_password": ""
+            "email": "Indirizzo e-mail",
+            "username": "Nome utente",
+            "password": "Password",
+            "verify_password": "Verifica la password"
         }
     },
     "search": {
         "results": {
-            "result": "",
-            "results": "",
-            "M_results": "",
-            "Md_results": ""
+            "result": "{{count}} resultado per &quot;{{query}}&quot;",
+            "results": "{{count}} risultati per &quot;{{query}}&quot;",
+            "M_results": "Circa {{count}} milione di risultati per &quot;{{query}}&quot;",
+            "Md_results": "Circa {{count}} miliardo di risultati per &quot;{{query}}&quot;"
         },
-        "posts": "",
-        "users": "",
-        "search_bio": ""
+        "posts": "Messaggi",
+        "users": "Utenti",
+        "search_bio": "Cerca in bio"
     },
     "profile": {
-        "edit": "",
-        "save": "",
-        "cancel": "",
-        "style": "",
-        "style_default": "",
-        "style_banner": "",
-        "unknown": "",
-        "unknown_description": "",
-        "follow": "",
-        "unfollow": "",
-        "banned": "",
-        "banned_descr": "",
-        "following": ""
+        "edit": "Modifica il mio profilo",
+        "save": "Salva",
+        "cancel": "Annulla",
+        "style": "Stile del profilo",
+        "style_default": "Predefinito",
+        "style_banner": "Bandiera",
+        "unknown": "Conto sconosciuto",
+        "unknown_description": "Questo account non esiste o non \u00e8 verificato",
+        "follow": "Seguire",
+        "unfollow": "Smetti di seguire",
+        "banned": "Account sospeso",
+        "banned_descr": "Questo account \u00e8 stato sospeso per aver violato le regole di SharMe.",
+        "following": "Seguendoti"
     }
 }
