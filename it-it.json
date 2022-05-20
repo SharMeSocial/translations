@@ -29,10 +29,10 @@
     },
     "search": {
         "results": {
-            "result": "{{count}} resultado per &quot;{{query}}&quot;",
-            "results": "{{count}} risultati per &quot;{{query}}&quot;",
-            "M_results": "Circa {{count}} milione di risultati per &quot;{{query}}&quot;",
-            "Md_results": "Circa {{count}} miliardo di risultati per &quot;{{query}}&quot;"
+            "result": "",
+            "results": "",
+            "M_results": "",
+            "Md_results": ""
         },
         "posts": "Messaggi",
         "users": "Utenti",
